@@ -1,0 +1,8 @@
+Langchain
+transformers
+torch
+requests
+numpy
+pandas
+faiss-cpu
+```
