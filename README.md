@@ -1,1 +1,0 @@
-A Youtube RAG Chat Extension
